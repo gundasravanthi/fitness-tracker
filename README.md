@@ -7,7 +7,7 @@ FitnessTrack is a web app intended to make tracking meals/nutrition, workouts, a
 
 I found myself using spreadsheets to track everything because other solutions were expensive and/or didn't have quite what I needed. The spreadsheets were effective but tedious, and I'm a spreadsheet person! I recognize that many people are not, so I hope this may be useful to a few people trying to make positive changes in their lives by taking control of their health and being able see their progress tracked and compared to their goals.
 
-[Currently published here](https://andydupuis.github.io/fitnesstrack/)
+
 
 ### Features
 
