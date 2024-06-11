@@ -29,7 +29,3 @@ I found myself using spreadsheets to track everything because other solutions we
 
 ```
 
-### Installation
-
-Currently this web app is just written in HTML, CSS and Vanilla JS, so as long as you have a basic texteditor you should have no issues. As the project expands I will add more details here.
-
